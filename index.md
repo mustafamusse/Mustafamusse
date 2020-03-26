@@ -8,7 +8,7 @@
 <img src="images/image.jpg?raw=true"/>
 
 ---
-[timer on a Mic 32 processor](/pdf/sample_presentation.pdf)
+[timer on a Mic 32 processor](https://github.com/mustafamusse/Timer-on-a-pic32)
 <img src="images/image2.jpg?raw=true"/>
 
 ---
