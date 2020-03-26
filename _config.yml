@@ -8,3 +8,4 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href=www.linkedin.com/in/mustafa-ali-8841ba19a/>View My LinkedIn Profile</a> 
   
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+theme: jekyll-theme-minimal
