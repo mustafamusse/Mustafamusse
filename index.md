@@ -4,7 +4,7 @@
 
 ### Projects
 
-[Create your social security number with transistors](https://github.com/mustafamusse/myFirstGame)
+[Create your social security number with transistors](https://mustafamusse.github.io/Mustafamusse/)
 <img src="images/image.jpg?raw=true"/>
 
 ---
