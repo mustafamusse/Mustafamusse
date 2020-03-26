@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
 [Create your social security number with transistors](/sample_page)
 <img src="images/image.jpg?raw=true"/>
