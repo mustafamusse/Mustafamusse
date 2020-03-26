@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/IMG_6133.JPG?raw=true"/>
+[Create your social security number with transistors](/sample_page)
+<img src="images/image.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
