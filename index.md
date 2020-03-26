@@ -8,7 +8,7 @@
 <img src="images/image.jpg?raw=true"/>
 
 ---
-[timer on a Pic 32 processor](https://github.com/mustafamusse/Timer-on-a-pic32)
+[timer on a Uno 32 processor](https://github.com/mustafamusse/Timer-on-a-pic32)
 <img src="images/image2.jpg?raw=true"/>
 
 ---
